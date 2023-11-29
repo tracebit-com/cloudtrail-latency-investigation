@@ -2,6 +2,8 @@
 
 Jupyter notebook for investigating cloudtrail latency using Athena and matplotlib.
 
+This was used to produce the charts in [How fast is CloudTrail today? Investigating CloudTrail delays using Athena](https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/)
+
 ## Setup
 
 ```
